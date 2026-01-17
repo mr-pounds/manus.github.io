@@ -1,0 +1,25 @@
+{
+  "background_color": "#ffffff",
+  "categories": [
+    "blog",
+    "technology",
+    "education"
+  ],
+  "description": "这里是五分熟马努努的博客，分享智能体、大模型、产品经理、产品设计等相关内容，希望能与你共同成长。",
+  "dir": "ltr",
+  "display": "standalone",
+  "icons": [
+    {
+      "sizes": "any",
+      "src": "/favicon.svg",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "zh-cn",
+  "name": "五分熟马努努",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "short_name": "马努努",
+  "start_url": "/",
+  "theme_color": "#09090b"
+}
