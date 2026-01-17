@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>归档 on 五分熟马努努</title>
-    <link>https://hugo-narrow.vercel.app/archives/</link>
+    <link>https://mr-pounds.github.io/archives/</link>
     <description>Recent content in 归档 on 五分熟马努努</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <atom:link href="https://hugo-narrow.vercel.app/archives/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mr-pounds.github.io/archives/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
